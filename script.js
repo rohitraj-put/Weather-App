@@ -30,4 +30,4 @@ submit.addEventListener("click", (e) => {
     e.preventDefault()
     getWeather(city.value)
 })
-getWeather("new york")
+getWeather("Ghaziabad")
